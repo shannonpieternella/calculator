@@ -2,7 +2,7 @@
 // pages/Result.jsx
 import React from 'react';
 import Layout from '../components/Layout';
-import Formthree from '../components/Formthreepre';
+//import Formthree from '../components/Formthreepre';
 
 const Formthreepagepre = () => {
   return (
