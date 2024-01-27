@@ -11,7 +11,7 @@ import { CardTitle, CardHeader, CardContent, CardFooter, Card } from "@/pages/ui
 import { Input } from "@/pages/ui/input"
 import { Button } from "@/pages/ui/button"
 import { useGlobalState } from '../contexts/GlobalStateContext';
-import { GlobalStateProvider } from '../contexts/GlobalStateContext';
+//import { GlobalStateProvider } from '../contexts/GlobalStateContext';
 
 export default function Formtwo() {
 

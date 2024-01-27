@@ -3,7 +3,7 @@
  * @see https://v0.dev/t/biFEBPuGrGn
  */
  import { useEffect, useState } from 'react';
- import Layout from '../app/Layout';
+ //import Layout from '../app/Layout';
  import { useGlobalState } from '../contexts/GlobalStateContext';
  
  export default function ResultContent({ answers, currentQuestion }) {
